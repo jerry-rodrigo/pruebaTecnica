@@ -1,10 +1,10 @@
-package org.jtamara.springcloud.msvc.usuarios;
+package com.bezkoder.spring.security.login;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MsvcUsuariosApplicationTests {
+class SpringBootSecurityLoginApplicationTests {
 
 	@Test
 	void contextLoads() {

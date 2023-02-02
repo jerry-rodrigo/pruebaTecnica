@@ -1,13 +1,13 @@
-package org.jtamara.springcloud.msvc.usuarios;
+package com.jtamara.spring.security.login;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MsvcUsuariosApplication {
+public class SpringBootSecurityLoginApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MsvcUsuariosApplication.class, args);
+		SpringApplication.run(SpringBootSecurityLoginApplication.class, args);
 	}
 
 }
